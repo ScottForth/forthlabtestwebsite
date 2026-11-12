@@ -1,0 +1,584 @@
+{
+  "updated": "2026-11-12T15:50:00+00:00",
+  "source": "Google Scholar (direct)",
+  "profile": {
+    "name": "Scott Forth",
+    "affiliation": "Rensselaer Polytechnic Institute, Cornell University, and Rockefeller University",
+    "url": "https://scholar.google.com/citations?user=Efwi0VsAAAAJ&hl=en&sortby=pubdate",
+    "author_id": "Efwi0VsAAAAJ"
+  },
+  "metrics": {
+    "citations": 2674,
+    "h_index": 20,
+    "i10_index": 22
+  },
+  "articles": [
+    {
+      "title": "Lipid Composition Drastically Alters Tau–Membrane Interaction: Implications for Alzheimer’s Disease",
+      "authors": "A Wu, N Kandel, S Li, TA Enoki, K Hewes, J Palumbo, M Buttaci, K Jones, ...",
+      "venue": "JACS Au 6 (4), 2264",
+      "year": "2026",
+      "cited_by": 3,
+      "cites_id": "10554212404616344299",
+      "id": "Efwi0VsAAAAJ:w1MjKQ0l0TYC"
+    },
+    {
+      "title": "BPS2026–Inference of molecular-scale mechanisms of PRC1 resistance to microtubule pair separation",
+      "authors": "D Steckhahn, SA Fiorenza, E Tai, ST Forth, PR Kramer, MD Betterton",
+      "venue": "Biophysical Journal 125 (4), 411a",
+      "year": "2026",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:-nhnvRiOwuoC"
+    },
+    {
+      "title": "PRC1 resists microtubule sliding in two distinct resistive modes due to variations in the separation between overlapping microtubules",
+      "authors": "D Steckhahn, SA Fiorenza, E Tai, S Forth, PR Kramer, M Betterton",
+      "venue": "Molecular biology of the cell 36 (10), ar115",
+      "year": "2025",
+      "cited_by": 4,
+      "cites_id": "16460991073004235168",
+      "id": "Efwi0VsAAAAJ:HhcuHIWmDEUC"
+    },
+    {
+      "title": "Microtuble Pair Separation under Kinesin Driving with PRC1 Crosslinker Resistance",
+      "authors": "PR Kramer, D Steckhahn, SA Fiorenza, E Tai, ST Forth, MD Betterton",
+      "venue": "APS Global Physics Summit 2025",
+      "year": "2025",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:3bvyWxjaHKcC"
+    },
+    {
+      "title": "Insights into the role of phosphorylation on microtubule crosslinking by PRC1",
+      "authors": "ST Forth",
+      "venue": "APS Global Physics Summit 2025",
+      "year": "2025",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:F2UWTTQJPOcC"
+    },
+    {
+      "title": "Insights into the role of phosphorylation on microtubule cross-linking by PRC1",
+      "authors": "E Tai, A Henglein, A Alfieri, G Saxena, S Forth",
+      "venue": "Molecular Biology of the Cell 36 (3), ar34",
+      "year": "2025",
+      "cited_by": 7,
+      "cites_id": "5062497185899084734",
+      "id": "Efwi0VsAAAAJ:VN7nJs4JPk0C"
+    },
+    {
+      "title": "Biochemical regulation of sliding crosslinked microtubule bundles in mitosis",
+      "authors": "E Tai, A Alfieri, S Forth",
+      "venue": "MOLECULAR BIOLOGY OF THE CELL 35 (1)",
+      "year": "2024",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:w0F2JDEymm0C"
+    },
+    {
+      "title": "The kinesin-5 tail and bipolar minifilament domains are the origin of its microtubule crosslinking and sliding activity",
+      "authors": "S Nithianantham, MK Iwanski, I Gaska, H Pandey, T Bodrug, S Inagaki, ...",
+      "venue": "Molecular biology of the cell 34 (11), ar111",
+      "year": "2023",
+      "cited_by": 12,
+      "cites_id": "6272364031779129072",
+      "id": "Efwi0VsAAAAJ:1DsIQWDZLl8C"
+    },
+    {
+      "title": "Deciphering the mechanics of microtubule bundles in mitosis",
+      "authors": "S Forth",
+      "venue": "Biophysical Journal 122 (3), 6a",
+      "year": "2023",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:kWvqk_afx_IC"
+    },
+    {
+      "title": "Differential regulation of sliding microtubule bundles in metaphase and anaphase",
+      "authors": "S Forth, E Tai, A Alfieri",
+      "venue": "MOLECULAR BIOLOGY OF THE CELL 34 (2), 121-122",
+      "year": "2023",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:FiDNX6EVdGUC"
+    },
+    {
+      "title": "Collaborative Research: DMS/NIGMS 1: Mesoscale Kinetic Theory of Early Mitotic Spindle Organization",
+      "authors": "PR Kramer, S Forth",
+      "venue": "NSF Award 21 (2153374), 53374",
+      "year": "2022",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:mUJArPsKIAAC"
+    },
+    {
+      "title": "Directly measuring forces within reconstituted active microtubule bundles",
+      "authors": "J Palumbo, E Tai, S Forth",
+      "venue": "JoVE (Journal of Visualized Experiments), e63819",
+      "year": "2022",
+      "cited_by": 2,
+      "cites_id": "1350714940094830057",
+      "id": "Efwi0VsAAAAJ:RoXSNcbkSzsC"
+    },
+    {
+      "title": "The mechanochemical origins of the microtubule sliding motility within the kinesin-5 domain organization",
+      "authors": "S Nithianantham, MK Iwanski, I Gaska, H Pandey, T Bodrug, S Inagaki, ...",
+      "venue": "bioRxiv, 2021.10. 12.463902",
+      "year": "2021",
+      "cited_by": 1,
+      "cites_id": "16422723022587955637",
+      "id": "Efwi0VsAAAAJ:mKu_rENv82IC"
+    },
+    {
+      "title": "Two modes of PRC1-mediated mechanical resistance to kinesin-driven microtubule network disruption",
+      "authors": "A Alfieri, I Gaska, S Forth",
+      "venue": "Current Biology 31 (12), 2495-2506. e4",
+      "year": "2021",
+      "cited_by": 28,
+      "cites_id": "17969011986537529912",
+      "id": "Efwi0VsAAAAJ:NDuN12AVoxsC"
+    },
+    {
+      "title": "The mitotic crosslinking protein PRC1 acts like a mechanical dashpot to resist microtubule sliding",
+      "authors": "IR Gaska, ME Armstrong, AC Alfieri, ST Forth",
+      "venue": "Biophysical Journal 120 (3), 345a",
+      "year": "2021",
+      "cited_by": 1,
+      "cites_id": "3767386323763212580",
+      "id": "Efwi0VsAAAAJ:sszUF3NjhM4C"
+    },
+    {
+      "title": "The mitotic crosslinking protein PRC1 acts like a mechanical dashpot to resist microtubule sliding",
+      "authors": "I Gaska, ME Armstrong, A Alfieri, S Forth",
+      "venue": "Developmental Cell 54 (3), 367-378. e5",
+      "year": "2020",
+      "cited_by": 64,
+      "cites_id": "12628403248015784719",
+      "id": "Efwi0VsAAAAJ:QyXJ3EUuO1IC"
+    },
+    {
+      "title": "Substrate–Enzyme Interactions in Intramembrane Proteolysis: γ-Secretase as the Prototype",
+      "authors": "X Liu, J Zhao, Y Zhang, I Ubarretxena-Belandia, S Forth, RL Lieberman, ...",
+      "venue": "Frontiers in Molecular Neuroscience 13, 65",
+      "year": "2020",
+      "cited_by": 11,
+      "cites_id": "16482311357686076489",
+      "id": "Efwi0VsAAAAJ:-jrNzM816MMC"
+    },
+    {
+      "title": "The kinesin-5 tail domain directly modulates the mechanochemical cycle of the motor domain for anti-parallel microtubule sliding",
+      "authors": "T Bodrug, EM Wilson-Kubalek, S Nithianantham, AF Thompson, A Alfieri, ...",
+      "venue": "Elife 9, e51131",
+      "year": "2020",
+      "cited_by": 61,
+      "cites_id": "3378574135640006400",
+      "id": "Efwi0VsAAAAJ:OBSaB-F7qqsC"
+    },
+    {
+      "title": "High-resolution imaging reveals how the spindle midzone impacts chromosome movement",
+      "authors": "MC Pamula, L Carlini, S Forth, P Verma, S Suresh, WR Legant, ...",
+      "venue": "Journal of Cell Biology 218 (8), 2529-2544",
+      "year": "2019",
+      "cited_by": 74,
+      "cites_id": "11748732343468036548",
+      "id": "Efwi0VsAAAAJ:HGTzPopzzJcC"
+    },
+    {
+      "title": "The Kinesin-5 Tail Domain Directly Modulates the Mechanochemical Cycle of the Motor for Anti-Parallel Microtubule Sliding",
+      "authors": "T Bodrug, E Wilson-Kubalek, S Nithianantham, AF Thompson, A Alfieri, ...",
+      "venue": "bioRxiv, 713909",
+      "year": "2019",
+      "cited_by": 2,
+      "cites_id": "12489404604297765340",
+      "id": "Efwi0VsAAAAJ:U_HPUtbDl20C"
+    },
+    {
+      "title": "The mechanics of microtubule networks in cell division",
+      "authors": "S Forth, TM Kapoor",
+      "venue": "Journal of Cell Biology 216 (6), 1525-1531",
+      "year": "2017",
+      "cited_by": 201,
+      "cites_id": "2903259832587532011",
+      "id": "Efwi0VsAAAAJ:LPtt_HFRSbwC"
+    },
+    {
+      "title": "Measuring Forces Generated by Ensembles of Kinesin-5 Crosslinking Two Microtubules",
+      "authors": "S Forth, Y Shimamoto, T Kapoor",
+      "venue": "Biophysical Journal 112 (3), 45a",
+      "year": "2017",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:hsZV8lGYWTMC"
+    },
+    {
+      "title": "Examining mechanisms regulating microtubule organization in dividing cells using lattice light sheet microscopy.",
+      "authors": "MC Pamula, S Forth, S Suresh, WR Legant, E Betzig, TM Kapoor",
+      "venue": "MOLECULAR BIOLOGY OF THE CELL 28",
+      "year": "2017",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:Ade32sEp0pkC"
+    },
+    {
+      "title": "Mutations in human tubulin proximal to the kinesin-binding site alter dynamic instability at microtubule plus-and minus-ends",
+      "authors": "SC Ti, MC Pamula, SC Howes, C Duellberg, NI Cade, RE Kleiner, S Forth, ...",
+      "venue": "Developmental cell 37 (1), 72-84",
+      "year": "2016",
+      "cited_by": 121,
+      "cites_id": "1208200445239672229",
+      "id": "Efwi0VsAAAAJ:yxmsSjX2EkcC"
+    },
+    {
+      "title": "Measuring pushing and braking forces generated by ensembles of kinesin-5 crosslinking two microtubules",
+      "authors": "Y Shimamoto, S Forth, TM Kapoor",
+      "venue": "Developmental cell 34 (6), 669-681",
+      "year": "2015",
+      "cited_by": 195,
+      "cites_id": "15017902027714124159",
+      "id": "Efwi0VsAAAAJ:prdVHNxh-e8C"
+    },
+    {
+      "title": "Dynamic regulation of transcription factors by nucleosome remodeling",
+      "authors": "M Li, A Hada, P Sen, L Olufemi, MA Hall, BY Smith, S Forth, JN McKnight, ...",
+      "venue": "Elife 4, e06249",
+      "year": "2015",
+      "cited_by": 136,
+      "cites_id": "641679934086951945",
+      "id": "Efwi0VsAAAAJ:8k81kl-MbHgC"
+    },
+    {
+      "title": "Asymmetric friction of non-motor maps can lead to their directional motion in active microtubule networks",
+      "authors": "S Forth, KC Hsia, Y Shimamoto, T Kapoor",
+      "venue": "Biophysical Journal 108 (2), 450a",
+      "year": "2015",
+      "cited_by": 1,
+      "cites_id": "15309229168700898483",
+      "id": "Efwi0VsAAAAJ:wKETBy42zhYC"
+    },
+    {
+      "title": "Temporal and Spatial Dynamics of Spindle Midzone Assembly Revealed by Lattice Light Sheet Microscopy.",
+      "authors": "S Forth, P Verma, M Sen, MC Pamula, WR Legant, E Betzig, TM Kapoor",
+      "venue": "MOLECULAR BIOLOGY OF THE CELL 26",
+      "year": "2015",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:3NQIlFlcGxIC"
+    },
+    {
+      "title": "Disease-related mutations in human tubulin proximal to the kinesin binding site alter dynamic instability at both microtubule ends",
+      "authors": "S Ti, MC Pamula, SC Howes, C Duellberg, RE Kleiner, S Forth, T Surrey, ...",
+      "venue": "Molecular Biology of the Cell 26",
+      "year": "2015",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:1yWc8FF-_SYC"
+    },
+    {
+      "title": "Reconstitution of the human augmin complex provides insights into its architecture and function.",
+      "authors": "K Hsia, EM Wilson-Kubalek, A Dottore, Q Hao, K Tsai, S Forth, ...",
+      "venue": "MOLECULAR BIOLOGY OF THE CELL 25",
+      "year": "2014",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:PYBJJbyH-FwC"
+    },
+    {
+      "title": "Reconstitution of the augmin complex provides insights into its architecture and function",
+      "authors": "KC Hsia, EM Wilson-Kubalek, A Dottore, Q Hao, KL Tsai, S Forth, ...",
+      "venue": "Nature cell biology 16 (9), 852-863",
+      "year": "2014",
+      "cited_by": 114,
+      "cites_id": "14722400523605586189",
+      "id": "Efwi0VsAAAAJ:7H_MAutzIkAC"
+    },
+    {
+      "title": "1P189 Examining mitotic functions of bipolar kinesin Eg5 in a reconstituted minimal microtubule network (12. Cell biology, Poster, The 52nd Annual Meeting of the Biophysical …",
+      "authors": "Y Shimamoto, S Forth, T Kapoor",
+      "venue": "Seibutsu Butsuri 54 (supplement1-2), S172",
+      "year": "2014",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:L1USKYWJimsC"
+    },
+    {
+      "title": "Asymmetric friction of nonmotor MAPs can lead to their directional motion in active microtubule networks",
+      "authors": "S Forth, KC Hsia, Y Shimamoto, TM Kapoor",
+      "venue": "Cell 157 (2), 420-432",
+      "year": "2014",
+      "cited_by": 107,
+      "cites_id": "8054157650363236503",
+      "id": "Efwi0VsAAAAJ:Y0pCki6q_DkC"
+    },
+    {
+      "title": "Dynamic regulation of transcription factors by nucleosome remodeling",
+      "authors": "M Li, P Sen, L Olufemi, A Hada, MA Hall, BY Smith, S Forth, JN McKnight, ...",
+      "venue": "Biophysical Journal 106 (2), 76a",
+      "year": "2014",
+      "cited_by": 4,
+      "cites_id": "15700325966869724024",
+      "id": "Efwi0VsAAAAJ:CdxZDUztZiMC"
+    },
+    {
+      "title": "Torque measurement at the single-molecule level",
+      "authors": "S Forth, MY Sheinin, J Inman, MD Wang",
+      "venue": "Annual review of biophysics 42, 583-604",
+      "year": "2013",
+      "cited_by": 123,
+      "cites_id": "3545884545521317042",
+      "id": "Efwi0VsAAAAJ:zYLM7Y9cAGgC"
+    },
+    {
+      "title": "Asymmetric Force Response Reveals Mechanical Role in Spindle Protein Localization",
+      "authors": "S Forth, KC Hsia, TM Kapoor",
+      "venue": "Biophysical Journal 104 (2), 551a",
+      "year": "2013",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:_FxGoFyzp5QC"
+    },
+    {
+      "title": "Angular Optical Trapping",
+      "authors": "S Forth, MD Wang",
+      "venue": "Encyclopedia of Biophysics, 93-93",
+      "year": "2013",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:LkGwnXOMwfcC"
+    },
+    {
+      "title": "Underwound DNA under tension: structure, elasticity, and sequence-dependent behaviors",
+      "authors": "MY Sheinin, S Forth, JF Marko, MD Wang",
+      "venue": "Physical review letters 107 (10), 108102",
+      "year": "2011",
+      "cited_by": 143,
+      "cites_id": "7167342152762445426",
+      "id": "Efwi0VsAAAAJ:UeHWp8X0CEIC"
+    },
+    {
+      "title": "Direct measurements of torque during Holliday junction migration",
+      "authors": "S Forth, C Deufel, SS Patel, MD Wang",
+      "venue": "Biophysical Journal 101 (2), L5-L7",
+      "year": "2011",
+      "cited_by": 23,
+      "cites_id": "9135116940379338756",
+      "id": "Efwi0VsAAAAJ:Tyk-4Ss8FVUC"
+    },
+    {
+      "title": "Underwound DNA Under Tension: Structure, Elasticity and Sequence-Dependent Behavior",
+      "authors": "M Sheinin, S Forth, JF Marko, MD Wang",
+      "venue": "Biophysical Journal 100 (3), 75a",
+      "year": "2011",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:roLk4NBRz8UC"
+    },
+    {
+      "title": "Passive Torque Wrench and Angular Position Detection Using a Single Beam Optical Trap",
+      "authors": "J Inman, S Forth, MD Wang",
+      "venue": "Biophysical Journal 100 (3), 153a",
+      "year": "2011",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:WF5omc3nYNoC"
+    },
+    {
+      "title": "Passive torque wrench and angular position detection using a single-beam optical trap",
+      "authors": "J Inman, S Forth, MD Wang",
+      "venue": "Optics letters 35 (17), 2949-2951",
+      "year": "2010",
+      "cited_by": 55,
+      "cites_id": "991258567700086858",
+      "id": "Efwi0VsAAAAJ:IjCSPb-OGe4C"
+    },
+    {
+      "title": "Torsional Studies of DNA Denaturation using Angular Optical Trapping",
+      "authors": "MY Sheinin, S Forth, MD Wang",
+      "venue": "Biophysical Journal 98 (3), 467a-468a",
+      "year": "2010",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:Se3iqnhoufwC"
+    },
+    {
+      "title": "Angular optical trapping and its application to DNA structures",
+      "authors": "S Forth",
+      "venue": "",
+      "year": "2009",
+      "cited_by": 1,
+      "cites_id": "13232384560770015644",
+      "id": "Efwi0VsAAAAJ:5nxA0vEk-isC"
+    },
+    {
+      "title": "Discontinuities at the DNA supercoiling transition",
+      "authors": "BC Daniels, S Forth, MY Sheinin, MD Wang, JP Sethna",
+      "venue": "Physical Review E—Statistical, Nonlinear, and Soft Matter Physics 80 (4 …",
+      "year": "2009",
+      "cited_by": 54,
+      "cites_id": "596898978529078664",
+      "id": "Efwi0VsAAAAJ:qjMakFHDy7sC"
+    },
+    {
+      "title": "Holliday Junction Mechanics Studied Using an Angular Optical Trap",
+      "authors": "S Forth, C Deufel, MD Wang",
+      "venue": "Biophysical Journal 96 (3), 344a",
+      "year": "2009",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:0EnyYjriUFMC"
+    },
+    {
+      "title": "Viscous Drag Torque on a Rotating Nanofabricated Cylinder Near an Infinite Plane Boundary",
+      "authors": "J Inman, C Deufel, S Forth, MD Wang",
+      "venue": "Biophysical Journal 96 (3), 289a",
+      "year": "2009",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+      "title": "Abrupt buckling transition observed during the plectoneme formation of individual DNA molecules",
+      "authors": "S Forth, C Deufel, MY Sheinin, B Daniels, JP Sethna, MD Wang",
+      "venue": "Physical review letters 100 (14), 148301",
+      "year": "2008",
+      "cited_by": 276,
+      "cites_id": "9471058818047855353",
+      "id": "Efwi0VsAAAAJ:9yKSN-GCB0IC"
+    },
+    {
+      "title": "Nanofabricated quartz cylinders for angular trapping: DNA supercoiling torque detection",
+      "authors": "C Deufel, S Forth, CR Simmons, S Dejgosha, MD Wang",
+      "venue": "Nature methods 4 (3), 223-225",
+      "year": "2007",
+      "cited_by": 247,
+      "cites_id": "12781988291417440396",
+      "id": "Efwi0VsAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+      "title": "Angular optical trapping with nanofabricated quartz cylinders: Measuring the torsional properties and plectoneme dynamics of DNA",
+      "authors": "S Forth, C Deufel, C Simmons, S Dejgosha, MD Wang",
+      "venue": "BIOPHYSICAL JOURNAL, 414A-414A",
+      "year": "2007",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:ufrVoPGSRksC"
+    },
+    {
+      "title": "Angular trapping of microparticles: Torque generation and detection with optical tweezers",
+      "authors": "M Wang, A La Porta, S Forth",
+      "venue": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 228, U215-U215",
+      "year": "2004",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+      "title": "Adsorption of CF4 on the Internal and External Surfaces of Opened Single-Walled Carbon Nanotubes:  A Vibrational Spectroscopy Study",
+      "authors": "O Byl, P Kondratyuk, ST Forth, SA FitzGerald, L Chen, JK Johnson, ...",
+      "venue": "Journal of the American Chemical Society 125 (19), 5889-5896",
+      "year": "2003",
+      "cited_by": 139,
+      "cites_id": "8674395236484563360",
+      "id": "Efwi0VsAAAAJ:u-x6o8ySG0sC"
+    },
+    {
+      "title": "Surface chemistry of single walled carbon nanotubes.",
+      "authors": "JT Yates, A Kuznetsova, DB Mawhinney, O Byl, P Kondratyuk, ...",
+      "venue": "ABSTRACTS OF PAPERS OF THE AMERICAN CHEMICAL SOCIETY 225, U617-U617",
+      "year": "2003",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:W7OEmFMy1HYC"
+    },
+    {
+      "title": "Wednesday, February 6, 2013 551a",
+      "authors": "S Forth, KC Hsia, TM Kapoor",
+      "venue": "Science 300, 145-149",
+      "year": "2003",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:WC9gN4BGCRcC"
+    },
+    {
+      "title": "Induced Infrared Absorption of H2 in C60",
+      "authors": "ST Forth",
+      "venue": "",
+      "year": "2002",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:jU7OWUQzBzMC"
+    },
+    {
+      "title": "Induced infrared absorption of molecular hydrogen in solid",
+      "authors": "SA FitzGerald, S Forth, M Rinkoski",
+      "venue": "Physical Review B 65 (14), 140302",
+      "year": "2002",
+      "cited_by": 49,
+      "cites_id": "1380386145072222717",
+      "id": "Efwi0VsAAAAJ:2osOgNQ5qMEC"
+    },
+    {
+      "title": "Nine formulations of quantum mechanics",
+      "authors": "DF Styer, MS Balkin, KM Becker, MR Burns, CE Dudley, ST Forth, ...",
+      "venue": "American Journal of Physics 70 (3), 288-297",
+      "year": "2002",
+      "cited_by": 415,
+      "cites_id": "7522839695205075470",
+      "id": "Efwi0VsAAAAJ:u5HHmVD_uO8C"
+    },
+    {
+      "title": "RAPID COMMUNICATIONS-Dynamics, dynamical systems, lattice effects, quantum solids, etc.-Induced infrared absorption of molecular hydrogen in solid C60",
+      "authors": "SA FitzGerald, S Forth, M Rinkoski",
+      "venue": "Physical Review-Section B-Condensed Matter 65 (14), 140302R",
+      "year": "2002",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:MAUkC_7iAq8C"
+    },
+    {
+      "title": "Induced Infrared Absorption of H2 in C60: An Honors Thesis Presented to the Physics Department of Oberlin College",
+      "authors": "ST Forth",
+      "venue": "Oberlin College",
+      "year": "2002",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:CB2v5VPnA5kC"
+    },
+    {
+      "title": "INDUCED INFRARED ABSORPTION OF  IN SOLID",
+      "authors": "S Fitzgerald, S Forth, M Rinkoski",
+      "venue": "",
+      "year": "2002",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:hqOjcs7Dif8C"
+    },
+    {
+      "title": "Tau Organizes Distinct Lattice Confirmation-dependent Microtubule Networks Under Mechanical Load",
+      "authors": "K Hewes, J Mitkoff, B Dionisio, A Henglein, S Forth",
+      "venue": "Available at SSRN 7004466, 0",
+      "year": "",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:oi2SiIJ9l4AC"
+    },
+    {
+      "title": "Supplemental material for Discontinuities at the DNA supercoiling transition",
+      "authors": "BC Daniels, S Forth, MY Sheinin, MD Wang, JP Sethna",
+      "venue": "",
+      "year": "",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:6bLC7aUMtPcC"
+    },
+    {
+      "title": "Design and Fabrication of Compound Refractive X-ray Lenses for CHESS",
+      "authors": "S Forth",
+      "venue": "",
+      "year": "",
+      "cited_by": 0,
+      "cites_id": null,
+      "id": "Efwi0VsAAAAJ:UebtZRa9Y70C"
+    }
+  ]
+}
